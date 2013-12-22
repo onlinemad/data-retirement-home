@@ -1,0 +1,9 @@
+{
+  "author": "Ian Wu <onlinemad@gmail.com>",
+  "name": "data-retirement-home",
+  "version": "0.0.1",
+  "main": "toJSON.js",
+  "dependencies": {
+    "xls": "~0.5.1"
+  }
+}
